@@ -1,15 +1,15 @@
 ---
 draft: false
-title: "Understanding Thermal Resistance: RθJC and ΨJC"
+title: "Understanding Thermal Resistance"
 snippet: "Thermal resistance is a crucial factor in the design of electronic products. Learn about the key concepts of RθJC and ΨJC, their measurement methods, and how they differ to optimize thermal management in your designs."
 image: {
-    src: "assets/1432680.jpeg",
+    src: "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?&fit=crop&w=430&h=240",
     alt: "Thermal Management in Electronics"
 }
 publishDate: "2025-01-15 16:39"
 category: "Thermal Design"
 author: "ThermoMGT Team"
-tags: [thermalmanagement, RθJC, ΨJC, electronics]
+tags: [basic, concept]
 ---
 
 ## Thermal Resistance Overview
