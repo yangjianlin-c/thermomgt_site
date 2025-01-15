@@ -7,7 +7,7 @@ image: {
     alt: "Thermal Management in Electronics"
 }
 publishDate: "2025-01-15 16:39"
-category: "Thermal Design"
+category: "Tutorials"
 author: "ThermoMGT Team"
 tags: [basic, concept]
 ---
